@@ -33,4 +33,5 @@ Working with different methodologies: Agile, Scrum. I can read other people's co
 - **STEP IT ACADEMY**, 2021 - 2022, Front-end development. Front-end Developer
 
 ## English
+B1()
 
