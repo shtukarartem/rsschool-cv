@@ -24,4 +24,13 @@ Working with different methodologies: Agile, Scrum. I can read other people's co
 - Scrum
 - Jira
 
-## Experience
+## Code Example
+- [Landing Page(HTML & CSS)](https://github.com/shtukarartem/itstep/tree/main/tasks/control%20work)
+- [tic-tac-toe](https://github.com/shtukarartem/itstep/tree/main/tasks/Task%2048.%20Simple%20project)
+
+## Education
+- **BELARUSIAN STATE ACADEMY OF COMMUNICATIONS**, 2015 - 2018, B.Sc. Faculty of Telecommunications. Infocommunication systems engineer
+- **STEP IT ACADEMY**, 2021 - 2022, Front-end development. Front-end Developer
+
+## English
+
